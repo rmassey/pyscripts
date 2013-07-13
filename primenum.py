@@ -1,5 +1,5 @@
 # Roman Massey
-# Computes and prints the 1,000th prime number
+# Finds the sum of the logarithms of all prime numbers from 2 to n
 
 from math import *
 
